@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arraylist/Arraylist.iml" filepath="$PROJECT_DIR$/Arraylist/Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Big O Notation/Big O Notation.iml" filepath="$PROJECT_DIR$/Big O Notation/Big O Notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures &amp; Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures &amp; Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist/Linkedlist.iml" filepath="$PROJECT_DIR$/Linkedlist/Linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linkedlist and Arraylist/Linkedlist and Arraylist.iml" filepath="$PROJECT_DIR$/Linkedlist and Arraylist/Linkedlist and Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interpolation search/interpolation search.iml" filepath="$PROJECT_DIR$/interpolation search/interpolation search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/priority queue/priority queue.iml" filepath="$PROJECT_DIR$/priority queue/priority queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/push/push.iml" filepath="$PROJECT_DIR$/push/push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queues/queues.iml" filepath="$PROJECT_DIR$/queues/queues.iml" />
+    </modules>
+  </component>
+</project>
